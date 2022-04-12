@@ -11,5 +11,5 @@
 The following figures show 3 iterations of Bayesian Optimization, considering the objective function _f(x) = -x*sin(x)_.  
 <img src= "https://github.com/andreaponti5/GP-BO/blob/main/figures/bo_ei_0.png" width="200" height="200">
 <img src= "https://github.com/andreaponti5/GP-BO/blob/main/figures/bo_ei_1.png" width="200" height="200">
+<img src= "https://github.com/andreaponti5/GP-BO/blob/main/figures/bo_ei_2.png" width="200" height="200">
 <img src= "https://github.com/andreaponti5/GP-BO/blob/main/figures/bo_ei_3.png" width="200" height="200">
-<img src= "https://github.com/andreaponti5/GP-BO/blob/main/figures/bo_ei_4.png" width="200" height="200">
