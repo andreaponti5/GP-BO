@@ -1,5 +1,5 @@
 # Gaussian Processes and Bayesian Optimization
-
+This repository contains some basic Python code to experiment with Gaussian Processes and Bayesian Optimization using the [scikit-optimize](https://scikit-optimize.github.io/stable/ "scikit-optimize homepage") library.
 ## Functionalities
 - **Central Limit Theorem**: using _clt.py_ it is possible to empirically proof the central limit theorem. You can set the number of samples used and the bounds of data.
 - **Multivariate Gaussian Distributions**: with _multivariate_gaussian.py_ you can generate a multivariate Gaussian distribution, with the countour plot and the marginal. You can set the mean and covariance of the distribution.
